@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>TikSync</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>SyncLive</Authors>
+    <Company>SyncLive</Company>
+    <Description>TikTok Live SDK for .NET — Real-time chat, gifts, likes and viewer events.</Description>
+    <PackageProjectUrl>https://tiksync.com</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tiksync/tiksync-csharp</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>tiktok;tiktok-live;websocket;api;sdk;gifts;chat;live;streaming</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="native\tiksync_core.dll" Pack="true" PackagePath="runtimes\win-x64\native\" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>
