@@ -36,4 +36,4 @@ Works with Unity 2021.3+ using .NET Standard 2.1. Add the NuGet package or copy 
 
 ## License
 
-MIT — built by [SyncLive](https://synclive.fr) | [tiksync.com](https://tiksync.com)
+MIT — built by [SyncLive](https://synclive.fr) | [tik-sync.com](https://tik-sync.com)

@@ -11,7 +11,7 @@ namespace TikSync
 {
     public class TikSyncClient
     {
-        private const string DefaultApiUrl = "https://api.tiksync.com";
+        private const string DefaultApiUrl = "https://api.tik-sync.com";
 
         private readonly string _uniqueId;
         private readonly string _apiKey;
