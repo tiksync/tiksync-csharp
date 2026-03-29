@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TikSync</id>
+    <version>1.0.2</version>
+    <authors>0xwolfsync</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://tik-sync.com/</projectUrl>
+    <description>TikTok Live SDK for .NET — Real-time chat, gifts, likes and viewer events.</description>
+    <tags>tiktok tiktok-live websocket api sdk gifts chat live streaming</tags>
+    <repository url="https://github.com/tiksync/tiksync-csharp" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\bin\Release\net6.0\TikSync.dll" target="lib\net6.0\TikSync.dll" />
+    <file src="C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\native\tiksync_core.dll" target="runtimes\win-x64\native\tiksync_core.dll" />
+    <file src="C:\Users\willi\Desktop\tiksync-sdks\csharp\README.md" target="\README.md" />
+  </files>
+</package>

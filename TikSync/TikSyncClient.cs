@@ -28,6 +28,16 @@ namespace TikSync
 
         public TikSyncClient(string uniqueId, string apiKey, string apiUrl = DefaultApiUrl, int maxReconnectAttempts = 3, int reconnectDelay = 5000)
         {
+            if (string.IsNullOrWhiteSpace(apiKey))
+            {
+                Console.Error.WriteLine();
+                Console.Error.WriteLine("  TikSync API key required");
+                Console.Error.WriteLine("  Get your free API key at: https://tik-sync.com/sign-up");
+                Console.Error.WriteLine("  Then use: new TikSyncClient(uniqueId, \"ts_...\")");
+                Console.Error.WriteLine("  Free tier: 1,000 requests/day, 10 WS connections");
+                Console.Error.WriteLine();
+                throw new ArgumentException("TikSync API key required. Get one free at https://tik-sync.com/sign-up");
+            }
             _uniqueId = uniqueId;
             _apiKey = apiKey;
             _apiUrl = apiUrl;

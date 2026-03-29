@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\bin\Release\net6.0\native\tiksync_core.dll
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\bin\Release\net6.0\TikSync.deps.json
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\bin\Release\net6.0\TikSync.dll
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\bin\Release\net6.0\TikSync.pdb
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.AssemblyInfo.cs
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.dll
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\refint\TikSync.dll
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\TikSync.pdb
+C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\obj\Release\net6.0\ref\TikSync.dll
