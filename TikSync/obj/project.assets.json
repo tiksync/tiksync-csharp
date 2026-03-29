@@ -11,13 +11,13 @@
     "C:\\Users\\willi\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Desktop\\tiksync-sdks\\csharp\\TikSync\\TikSync.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Desktop\\tiksync\\tiksync-sdks\\csharp\\TikSync\\TikSync.csproj",
       "projectName": "TikSync",
-      "projectPath": "C:\\Users\\willi\\Desktop\\tiksync-sdks\\csharp\\TikSync\\TikSync.csproj",
+      "projectPath": "C:\\Users\\willi\\Desktop\\tiksync\\tiksync-sdks\\csharp\\TikSync\\TikSync.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Desktop\\tiksync-sdks\\csharp\\TikSync\\obj\\",
+      "outputPath": "C:\\Users\\willi\\Desktop\\tiksync\\tiksync-sdks\\csharp\\TikSync\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"

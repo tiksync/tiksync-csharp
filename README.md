@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tiksync/.github/main/profile/logo-96.png" width="60" alt="TikSync" />
-</p>
+# TikSync C# / .NET SDK
 
-<h1 align="center">TikSync C# / .NET SDK</h1>
+**TikTok Live SDK for C# / .NET** - Real-time chat, gifts, likes, follows & viewer events.
 
-<p align="center">
-  <strong>TikTok Live SDK for C# / .NET</strong> - Real-time chat, gifts, likes, follows & viewer events.<br>
-  <a href="https://tik-sync.com">Website</a> - <a href="https://tik-sync.com/docs">Documentation</a> - <a href="https://tik-sync.com/pricing">Pricing</a>
-</p>
+[Website](https://tik-sync.com) - [Documentation](https://tik-sync.com/docs) - [Pricing](https://tik-sync.com/pricing)
 
 ---
 

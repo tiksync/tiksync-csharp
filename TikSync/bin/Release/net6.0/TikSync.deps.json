@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "TikSync/1.0.2": {
+      "TikSync/1.0.3": {
         "runtime": {
           "TikSync.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "TikSync/1.0.2": {
+    "TikSync/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

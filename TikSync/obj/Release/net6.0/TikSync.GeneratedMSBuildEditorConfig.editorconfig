@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TikSync
-build_property.ProjectDir = C:\Users\willi\Desktop\tiksync-sdks\csharp\TikSync\
+build_property.ProjectDir = C:\Users\willi\Desktop\tiksync\tiksync-sdks\csharp\TikSync\
